@@ -1,0 +1,5 @@
+1.	True.
+2.	Acces modifier should be public.
+3.	Yes.
+4.	Not sure. But I think that method should be declared public. So that it canb be accessed by the inherited class also.
+5.	
